@@ -3,7 +3,8 @@ def hello_World():
 
 
 def calculator():
-    print("Lets use Calculator")    
+    res = 1 + 1
+    print("Lets use Calculator", res)    
 
 my_msg = hello_World()  
 
